@@ -1,8 +1,8 @@
 #### Hello 🎈, Warigia here.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warigiasue89&layout=donut-vertical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=warigiasue89&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=warigiasue89&show_icons=true&theme=radical)
+
 
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
